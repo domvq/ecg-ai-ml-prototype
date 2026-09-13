@@ -187,11 +187,6 @@ Potential future development includes:
 * Improved deployment and error handling
 * Comprehensive testing
 
-## License
-
-Add an appropriate open-source license to this repository if you intend to distribute the project publicly.
-
-For example, an MIT License can be added as `LICENSE`.
 
 ## Author
 
